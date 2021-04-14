@@ -179,6 +179,7 @@ main #authorDesc p {
 article #articleTitle {
 	text-align: center;
 	font-size:50px;
+	margin-top: 100px;
 }
 
 article .articleContainer {
@@ -239,6 +240,7 @@ article .articleJudul:hover {
 aside h3 {
 	text-align: center;
 	font-size: 50px;
+	margin-top: 100px;
 }
 
 aside .asideWrapper{
